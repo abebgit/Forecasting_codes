@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+title: Deep Learning-based Day-ahead Wind Power Forecasting for Adama-II Wind Turbines and Conceptual Deployment Pathways
+version: 1.0.0
+
+authors:
+  - family-names: Teshome
+    given-names: Abeba Debru
+
+  - family-names: Kahsay
+    given-names: Mulu Bayray
+
+  - family-names: Cabrera
+    given-names: Maria Marta Molinas
