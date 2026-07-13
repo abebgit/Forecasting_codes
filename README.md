@@ -15,18 +15,6 @@ This repository contains source code for data preprocessing, forecasting models,
 
 ## Requirements
 
-The code was developed and tested in Python 3.12 using the following libraries:
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- XGBoost
-- TensorFlow
-- SHAP
-- Psutil
-- PyWavelets
-
 Install all dependencies using:
 
 ```bash
